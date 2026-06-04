@@ -1,7 +1,7 @@
 {
-  "name": "float-label-css",
-  "version": "2.0.0-alpha",
-  "description": "Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.",
+  "name": "@anyblades/float-label-css",
+  "version": "2.3.1",
+  "description": "Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser",
   "repository": {
     "type": "git",
     "url": "https://github.com/anyblades/float-label-css.git"
@@ -13,5 +13,11 @@
   ],
   "author": "Anton Staroverov",
   "license": "MIT",
-  "homepage": "https://blades.ninja/css/float-label/"
+  "homepage": "https://blades.ninja/css/float-label/",
+  "scripts": {
+    "build": "cp ./node_modules/@anyblades/blades/css/float-label.* ./dist/"
+  },
+  "devDependencies": {
+    "@anyblades/blades": "^2.3.1"
+  }
 }
