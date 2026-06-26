@@ -10,7 +10,7 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 <!--section:gh-only-->
 
-## [Demo & docs ↗](https://blades.ninja/css/float-label/#demo)
+## [Demo ↗](https://blades.ninja/css/float-label/#demo)
 
 [<img src="float-label-css-v2.gif" width="600">](https://blades.ninja/css/float-label/#demo)
 
@@ -34,37 +34,11 @@ Examples:
 - <mark>NEW</mark> in **v2:** Finally, the text label can be placed BEFORE the input field!
 - <mark>NEW</mark> in **v2:** Class-less!
 
----
-
-## Install <!-- same as https://raw.githubusercontent.com/anyblades/blades/refs/heads/main/README.md -->
-
-###### <mark>Via CDN</mark>
-
-<!--prettier-ignore-->
-```html
-<link rel="stylesheet" href="
-  https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/float-label.min.css
-">
-```
-
-###### <mark>Via npm</mark>
-
-```sh
-npm install @anyblades/blades
-```
-
-Then in your `.css`:
-
-```css
-@import "@anyblades/blades/float-label";
-```
-
 <!--section:gh-only-->
 
-###### <mark>Included with</mark>
+---
 
-- https://github.com/anyblades/blades 🥷
-- https://github.com/anyblades/pico ✨
+## [Install ↗](https://blades.ninja/css/standalone/)
 
 <!--section:docs-->
 
