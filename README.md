@@ -1,4 +1,4 @@
-# 🥷 Classless CSS-only Float Label. Finally.
+# 🥷 Pure CSS Float Label. Finally classless.
 
 <!--section:summary-->
 
