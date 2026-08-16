@@ -1,26 +1,24 @@
-# 🥷 Pure CSS Float Label. Finally classless.
-
-<!--section:summary-->
+# 🥷 Float Label CSS. Classless.
 
 Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
-![](https://img.shields.io/github/v/release/anyblades/float-label-css?label=&color=darkslategray&style=for-the-badge&include_prereleases)
-[![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anyblades/float-label-css)
-[![](https://img.shields.io/github/stars/anyblades/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/float-label-css)
+Now part of [*Bl*ades CSS](https://blades.ninja/) &nbsp;![][NPM_V]
 
-<!--section:gh-only-->
+[NPM_V]: https://img.shields.io/npm/v/@anyblades/blades?label=&color=darkslategray
 
-## [Demo ↗](https://blades.ninja/css/float-label/#demo)
+## [Demo][DEMO]
 
-[<img src="float-label-css-v2.gif" width="600">](https://blades.ninja/css/float-label/#demo)
+[<img src="float-label-css-v2.gif" width="600">][DEMO]
 
 <!--section:docs-demo-install-->
 
-Examples:
+Live demos:
 
-- [**Pico + *Bl*ades** with Float Label CSS v2 included](https://blades.ninja/css/float-label/#demo)
-- [**Tailwind v4** + Float Label CSS v2](https://codepen.io/tonystar/pen/ALaZrV)
-- [**Float Label CSS v2 only**](https://codepen.io/tonystar/pen/JRLaKw) (no CSS frameworks)
+- [Float Label CSS with Blades/Pico CSS][DEMO]
+- [Float Label CSS with Tailwind](https://codepen.io/tonystar/pen/ALaZrV)
+- [Float Label CSS framework-agnostic](https://codepen.io/tonystar/pen/JRLaKw)
+
+[DEMO]: https://blades.ninja/css/float-label/#demo
 
 ---
 
@@ -38,7 +36,27 @@ Examples:
 
 ---
 
-## [Install ↗](https://blades.ninja/css/standalone/)
+## Install options
+
+### <mark>A.</mark> With Pico/Blades CSS
+
+https://blades.ninja/css/
+
+### <mark>B.</mark> With standalone, framework-agnostic helpers
+
+https://blades.ninja/css/standalone/
+
+### <mark>C.</mark> Float Label CSS sources only
+
+```sh
+npm install @anyblades/blades
+```
+
+Then:
+
+```css
+@import "@anyblades/blades/float-label";
+```
 
 <!--section:docs-->
 
