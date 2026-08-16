@@ -1,6 +1,10 @@
 # 🥷 Float Label CSS. Classless.
 
-Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
+<!--section:summary-->
+
+<big>Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.</big>
+
+<!--section-->
 
 Now part of [*Bl*ades CSS](https://blades.ninja/) &nbsp;![][NPM_V]
 
@@ -32,7 +36,7 @@ Live demos:
 - <mark>NEW</mark> in **v2:** Finally, the text label can be placed BEFORE the input field!
 - <mark>NEW</mark> in **v2:** Class-less!
 
-<!--section:gh-only-->
+<!--section-->
 
 ---
 
@@ -117,7 +121,7 @@ Featured by:
 - https://github.com/uptonking/note4yaoo/blob/main/toc/toc-lib-css-only.md#css-tools
 - https://github.com/bcgov/moh-fpcare `package.json`
 
-<!--section:gh-only-->
+<!--section-->
 
 ---
 
