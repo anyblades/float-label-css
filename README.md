@@ -1,5 +1,4 @@
-# 🥷 Float Label CSS. Classless.
-
+# 🥷 Float Label CSS <mark>v2</mark>
 <!--section:summary-->
 
 <big>Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.</big>
