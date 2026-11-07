@@ -3,9 +3,11 @@
 
 <big>Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.</big>
 
-<!--section-->
+<!--section:gh-only-->
 
 Now part of 🥷 [Blades CSS](https://blades.dev/)
+
+---
 
 ## [Demo][DEMO]
 
