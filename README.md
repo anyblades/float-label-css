@@ -1,13 +1,11 @@
-# 🥷 Float Label CSS <mark>v2</mark>
+# Float Label CSS <mark>v2</mark>
 <!--section:summary-->
 
 <big>Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.</big>
 
 <!--section-->
 
-Now part of [*Bl*ades CSS](https://blades.ninja/) &nbsp;![][NPM_V]
-
-[NPM_V]: https://img.shields.io/npm/v/@anyblades/blades?label=&color=darkslategray
+Now part of 🥷 [Blades CSS](https://blades.dev/)
 
 ## [Demo][DEMO]
 
